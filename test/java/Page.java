@@ -1,6 +1,9 @@
 import org.openqa.selenium.WebDriver;
 
 public abstract class Page {
+    /**
+     * Door Thomas Van Gansen En Lennert Nowak
+     */
     WebDriver driver;
     String path = "localhost:8080/Contact_Tracing_App_war_exploded/";
 

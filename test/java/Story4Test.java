@@ -11,6 +11,10 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class Story4Test {
+    /**
+     * Door Thomas Van Gansen En Lennert Nowak
+     */
+
     private WebDriver driver;
     private String path = "http://localhost:8080/Contact_Tracing_App_war_exploded/Controller";
 

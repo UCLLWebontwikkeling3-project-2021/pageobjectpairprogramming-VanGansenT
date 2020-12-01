@@ -4,6 +4,10 @@ import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends Page{
 
+    /**
+     * Door Thomas Van Gansen En Lennert Nowak
+     */
+
     @FindBy(id="welcome")
     WebElement paragraaf;
 
